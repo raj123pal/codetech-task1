@@ -3,7 +3,7 @@
 * ID:CT08DS2479
 * Domain:C++ Programming
 * Duration:June 15th,2024 to July 15th,2024
-* Mentor:Muzammil
+* Mentor:Neela Santhosh
 # Overview of Project
 ##### Project:
 Develop a simple quiz game that presents multiple-choice questions to the user. The game should keep track of the user's score and provide feedback based on their 
